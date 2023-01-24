@@ -1,0 +1,23 @@
+/* OBRIGATÓRIO (;) NO CSS */
+* {
+    background-color: rgb(161, 193, 201);
+}
+h1 {
+    color: rgb(145, 255, 0);
+    background: black;
+}
+
+p {
+   color: rgb(2, 2, 238); 
+   font-size: 20px;
+}
+
+button {
+    background: green;
+    border-color: darkgreen;
+    cursor: pointer;
+}
+
+img {
+    border-radius: 50%;
+}
